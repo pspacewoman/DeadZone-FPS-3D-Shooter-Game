@@ -43,7 +43,7 @@
 
 ### 🎮 Gameplay Modifications
 - [ ] Add new player abilities, such as modified controls, additional moves, or additional power-ups.
-- [ ] Add new enemies with their own behavior.  
+- [ ] Add new enemies with their own behaviour.  
   *(NOTE: This counts as two modifications if you create unique behavior **and** create the art and animation.)*
 - [ ] Add new obstacles and challenges.  
   *(NOTE: This counts as two modifications if you create unique behavior **and** create the art and animation.)*
