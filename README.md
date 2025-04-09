@@ -60,6 +60,13 @@
 -  Unity provides support for three different Rendering Pipelines, including the Built-in Rendering Pipeline, the Universal Rendering Pipeline, and the High Definition Rendering Pipeline.
 -  Using URP for this project
 
+</details>
+
+
+
+<details>  
+<summary>🧩 <strong>Level Design through Grayboxing</strong></summary>
+  
 ##Creating a 3D URP (Universal Rendering Pipeline) Project
 Steps-
 1.  create URP assets
@@ -97,7 +104,21 @@ Steps-
     -  deleted main camera ad 'test player' has its own camera for FPS
     -  tested the game levels across 2 rooms
 14.  Enhance the Grayboxed Level-
-    -  
+    -  Added waypoint1 and waypoint2 to movinfplatform to move b/w two pillars (waypointmover script)
+    -  Downloaded new assets WorldMaterialFree
+    - Applied the new material on floor and platforms
 
+  
+</details>
+
+<details>  
+<summary>🧩 <strong>Level Design Art Pass</strong></summary>
+Step-
+1.  Art Pass: Floor
+    -  adding production art
+    -  1st - starting with replacing the floor
+    -  add floor environment from prefabs
+2.  Srt Pass: Outer Walls
+    -  
 
 </details>
