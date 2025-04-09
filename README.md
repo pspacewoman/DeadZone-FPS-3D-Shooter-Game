@@ -54,6 +54,36 @@
 -  Sees action through eyes of the player character
 -  Designing 3D game for FPS in UNITY
 
-#Create a 3D URP Project
+##Unity Rendering Pipeline
+-  The Rendering Pipeline is the steps the game engine goes through to draw or render the scene.
+-  Different rendering techniques can create higher quality or lower quality graphics, and may be more optimized or less optimized depending on the graphics hardware of the computer.
+-  Unity provides support for three different Rendering Pipelines, including the Built-in Rendering Pipeline, the Universal Rendering Pipeline, and the High Definition Rendering Pipeline.
+-  Using URP for this project
+
+##Creating a 3D URP (Universal Rendering Pipeline) Project
+Steps-
+1.  create URP assets
+2.  import Unity's input system package
+3.  download and import project assets
+4.  import ProBuilder:
+      a.  ProBuilder is a 3D-level design tool now owned by Unity.
+      b.  It adds tools to build, edit, and texture custom 3D geometry right inside Unity, so you don't need to go to an external 3D tool such as Blender or Maya.
+      c.  ![Screenshot 2025-04-09 at 15 40 36](https://github.com/user-attachments/assets/359530e7-c99e-454b-8007-840a7dd08a36)
+5.  add probuilder to mesh settings
+6.  Graybox Level Design: Floor and Walls
+    -  Greyboxing is a level design technique where you rapidly prototype the level using basic visuals, such as greyboxes, to get the level into a playable state as quickly as possible.
+    -  Probuilder is an excellent tool for Grayboxing in UNITY.
+  ![Grayboxing](https://github.com/user-attachments/assets/636902e6-da13-4648-a2c5-07de6356a816)
+
+7.  Drawing on paper using a pencil the levels first
+    Top-down map of simple level design and greybox in Unity.
+8. create scene
+9. create layout on paper with pencil -> draw levels of your game and mention challenges which will be cleared to move to next level
+10. create cube shape > excrude the faces and tilly axis 17 (face selection tool)
+11. Graybox Level Design: First Room-
+    -  Block out room 1 with Level 1
+    -  Divide the cube into 2 rooms separated by a door
+    -  room 1 - create cube
+
 
 </details>
