@@ -1,6 +1,20 @@
 # Game Design and Development: 3D Shooter
 ---
 
+![image](https://github.com/user-attachments/assets/c19036a2-93b5-473b-8178-721c87d76677)
+
+
+Goal: 
+-   To develop 3D game
+-   Games Asset Creation and Concepts
+-   Level Design
+-   Game Balancing
+-   Prototyping
+-   Playtesting
+
+
+![Screenshot 2025-04-09 at 15 08 02](https://github.com/user-attachments/assets/0ba00415-a1b1-4200-a3fe-a1663b52ac1f)
+
 <details>
    
 <summary>🧩 <strong>Objectives</strong></summary>
