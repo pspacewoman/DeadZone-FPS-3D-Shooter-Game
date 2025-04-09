@@ -80,10 +80,24 @@ Steps-
 8. create scene
 9. create layout on paper with pencil -> draw levels of your game and mention challenges which will be cleared to move to next level
 10. create cube shape > excrude the faces and tilly axis 17 (face selection tool)
-11. Graybox Level Design: First Room-
+11. Graybox Level Design our first level: First Room-
     -  Block out room 1 with Level 1
     -  Divide the cube into 2 rooms separated by a door
-    -  room 1 - create cube
+    -  room 1 - create cube1 (platform 1)
+    -  create cube2 (platform 2)
+    -  create a key to door
+    -  create a player
+12. Finishing up Graybox our first level: Second Room-
+    -  blocking out second room
+    -  create pillar 1 and pillar2 cylinders
+    -  create moving platfrom
+    -  create a goallocation cone
+13.  Test Grayboxed Level
+    -  created a 'test player' from prefab in the place of playerstartposition
+    -  deleted main camera ad 'test player' has its own camera for FPS
+    -  tested the game levels across 2 rooms
+14.  Enhance the Grayboxed Level-
+    -  
 
 
 </details>
