@@ -5,7 +5,7 @@
 
 <details>
 <summary>🧩 <strong>Goal</strong></summary>
--   To develop a 3D game
+-   To develop a 3D game for FPS (First-Person Shooter) in UNITY
 -   Games Asset Creation and Concepts
 -   Level Design
 -   Game Balancing
@@ -17,7 +17,7 @@
 </details>
 
 <details>  
-<summary>🧩 <strong>Objectives</strong></summary>
+<summary>🧩 <strong>Project Objectives</strong></summary>
 
 1. Created 3D games in Unity
 2. Implemented typical 3D shooter (FPS) mechanics
@@ -36,3 +36,23 @@
 
 </details>
 
+<details>  
+<summary>🧩 <strong>Concept</strong></summary>
+-  Using ProBuilder to help in blocking out levels (aka, grayboxing or level design prototyping)
+-  Using ProBuilder: Understanding a bit about 3D modeling concepts such as vertices, edges, faces, extruding, and edge loops
+-  Practicing a typical level design pipeline from grayboxing to an art pass
+-  Level Design in 3D space
+-  Creating particle effects
+-  Using NavMesh to create Enemy movement
+  
+</details>
+
+
+<details>  
+<summary>🧩 <strong>Concept</strong></summary>
+-  Featuring First Person Point
+-  Sees action through eyes of the player character
+-  Designing 3D game for FPS in UNITY
+-  
+
+</details>
