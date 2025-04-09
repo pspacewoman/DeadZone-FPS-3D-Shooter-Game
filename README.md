@@ -49,10 +49,11 @@
 
 
 <details>  
-<summary>🧩 <strong>Concept</strong></summary>
+<summary>🧩 <strong>FPS</strong></summary>
 -  Featuring First Person Point
 -  Sees action through eyes of the player character
 -  Designing 3D game for FPS in UNITY
--  
+
+#Create a 3D URP Project
 
 </details>
