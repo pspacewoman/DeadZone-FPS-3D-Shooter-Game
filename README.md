@@ -59,7 +59,7 @@ Added my own notes below for understanding the development process 📝
 </details>
 
 <details>  
-<summary>🧩 <strong>Phase 1: Concept</strong></summary>
+<summary>🧩 <strong>Phase 1: Concept </strong></summary>
 
   
 -  Using ProBuilder to help in blocking out levels (aka, grayboxing or level design prototyping)
