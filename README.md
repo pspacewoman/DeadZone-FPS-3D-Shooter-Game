@@ -327,13 +327,6 @@ unity > project > right-click > open C# Project
 
 
 <details>  
-<summary>🧩 <strong>3D Shooter Game</strong></summary>
-
-
-**Final Project**
-
-
- <details>  
 <summary>🧩 <strong>Version 2.0 (In-Progress 80%)</strong></summary>
 
 
@@ -373,6 +366,5 @@ unity > project > right-click > open C# Project
 4.  Modify the in-game GUI in some significant way.
 
 </details>
-
 
 </details>
