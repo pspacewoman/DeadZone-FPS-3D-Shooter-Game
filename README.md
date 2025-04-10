@@ -241,7 +241,7 @@ Steps-
   
 unity > project > right-click > open C# Project
 
--  PlayerController.cs Script
+-  PlayerController.cs Script   (ad-hoc programming)
   
 -  A coding standard is an agreed-upon structure of how to write code. Helps to review the code individually or working in teams.
 -  You can have different coding standards across different projects, teams, and companies.
@@ -268,7 +268,7 @@ unity > project > right-click > open C# Project
 
 **Learning to reverse engineer someone else's code is an important skill in learning to program. The coding standard should help you in this process.**
 
-</details>
+
 
 **2. Ad Hoc vs. Generalized Code**
 
@@ -276,8 +276,63 @@ unity > project > right-click > open C# Project
 -  Having a general health script written in a robust manner to cover all the use cases made sense.
 -  We write it once and use it many times.
 -  It allows us to leverage our previous work to create games smarter and faster.
+-  Ad hoc programming is writing code for a specific purpose rather than a generalized purpose.
+-  Generic script - this script only does what it needs to do for controlling a first-person character, and that conciseness makes it both easier to create and easier to understand.
 
-  
+ </details>
+
+
+ <details>  
+<summary>🧩 <strong>3D Shooter Game</strong></summary>
+
+Assignment-
+
+1. 3 significant modifications
+2. new name of the game
+3. new UI of the game
+4. ScreenshotUtility
+5. iterative testing to fix bugs and code issues
+6. include all scenes in the Unity "Build Settings"
+7. create and test Windows, MacOS, and WebGL builds
+8. upload game on itch.io
+
+---
+
+**Ist Modification: Design Modifications (these are more design intensive), such as:**
+
+1. Create a complete interesting, comprehensive, and coherent level.
+2. Add multiple additional levels and tie them in to create a logical progression in your game. (NOTE: Each level should be unique in some way, such as different type of challenges for the player.)
+3. Modify the out-of-game menus in some significant and meaningful way.
+
+---
+
+**IInd Modification: Aesthetic (Visual/Audio) Modifications (these are more art intensive), such as:**
+
+1.  Reskin the existing graphics in some significant way, such as change the player or an enemy to a completely different character.
+2.  Add additional significant and coherent graphical elements to the game, such as new enemies or environmental challenges, complete with animated states.
+3.  Replace sound effects in the game to update the sound design of the game. (NOTE: You will need to change ALL the sound effects for this to be significant. Don't just change one.)
+4.  Add custom music to your game. (NOTE: Custom meaning you created the music with a tool such as Garage Band or Fruity Loops. If you just swap out the music for another track you find, this is not considered a significant change ... though you can do it without it counting as a significant modification.)
+
+---
+
+**IIIrd Modification: Gameplay Modifications (these are more system/programming intensive), such as:**
+
+1.  Add new player abilities, such as modified controls, additional moves, or additional power ups.
+2.  Add new enemies with their own behavior. (NOTE: This can be considered two modifications if you create unique behavior AND create the art and animation.)
+3.  Add new obstacles and challenges. (NOTE: This can be considered two modifications if you create unique behavior AND create the art and animation.)
+4.  Modify the in-game GUI in some significant way.
+
+</details>
+</details>
+
+
+<details>  
+<summary>🧩 <strong>**Module 2: Game Assets**</strong></summary>
+
+1.  Game Graphics
+2.  Game Audio
+3.  Asset Pipeline
+4.  Programming Best Practices 
 
 </details>
 
@@ -288,3 +343,4 @@ unity > project > right-click > open C# Project
 1. Fix Main Menu Text
 2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
 </details>
+3. Assignment
