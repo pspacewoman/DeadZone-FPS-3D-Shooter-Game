@@ -59,7 +59,7 @@ Added my own notes below for understanding the development process 📝
 </details>
 
 <details>  
-<summary>🧩 <strong>Module 1: Concept</strong></summary>
+<summary>🧩 <strong>Phase 1: Concept</strong></summary>
 
   
 -  Using ProBuilder to help in blocking out levels (aka, grayboxing or level design prototyping)
@@ -306,7 +306,7 @@ unity > project > right-click > open C# Project
 
 
 <details>  
-<summary>🧩 <strong>Module 2: Game Assets</strong></summary>
+<summary>🧩 <strong>Phase 2: Game Assets</strong></summary>
 
 1.  Game Graphics
 2.  Game Audio
