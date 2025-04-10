@@ -280,12 +280,39 @@ unity > project > right-click > open C# Project
 -  Generic script - this script only does what it needs to do for controlling a first-person character, and that conciseness makes it both easier to create and easier to understand.
 
  </details>
+</details>
+
+
+<details>  
+<summary>🧩 <strong>Module 2: Game Assets</strong></summary>
+
+1.  Game Graphics
+2.  Game Audio
+3.  Asset Pipeline
+4.  Programming Best Practices 
+
+</details>
+
+
+<details>  
+<summary>🧩 <strong>Next Modification</strong></summary>
+
+1. Fix Main Menu Text
+2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
+3. Assignment
+
+</details>
+
+
+<details>  
+<summary>🧩 <strong>3D Shooter Game</strong></summary>
+
+Final Project
 
 
  <details>  
-<summary>🧩 <strong>3D Shooter Game</strong></summary>
+<summary>🧩 <strong>Assignmen</strong></summary>
 
-Assignment-
 
 1. 3 significant modifications
 2. new name of the game
@@ -323,33 +350,6 @@ Assignment-
 4.  Modify the in-game GUI in some significant way.
 
 </details>
-</details>
 
-
-<details>  
-<summary>🧩 <strong>Module 2: Game Assets</strong></summary>
-
-1.  Game Graphics
-2.  Game Audio
-3.  Asset Pipeline
-4.  Programming Best Practices 
-
-</details>
-
-
-<details>  
-<summary>🧩 <strong>Next Modification</strong></summary>
-
-1. Fix Main Menu Text
-2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
-3. Assignment
-
-</details>
-
-
-<details>  
-<summary>🧩 <strong>3D Shooter Game</strong></summary>
-
-Final Project
 
 </details>
