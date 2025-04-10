@@ -214,8 +214,40 @@ Steps-
 
 5.  Audio Mixer
 
--  
+-  Unity Provided an Audio Mixer Tool
+-  project > Audio > right-click > create audio > Create NewAudioMixer > re-name 'In-Game Audio Mixer'
+-  created 3 audio mixers and added those into the prefabs music setting for:
+     -  prefabs > effects > pistoleffect
+     -  prefabs > effects > UI > UISwitchEffect
+     -  test the audio and adjust accordingly
+     -  next - > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
+
+6.  Adding More Levels
+
+-  add a main menu and level1 scene on build profile scene list > exit
+-  open main menu scene > test the buttons
+-  add new level2 > add more prefabs > props in the level2 scenes
+-  added more enemies
+-  back to level1 > level management > uimanageringame > victory page > next level button > inspector > onclick (set level2)
+-  back to  main menu > uimanagermainmenu > levelselectpage > onclick (level2)
+-  add level2 scene to build profile scene list
 
 </details>
+
+<details>  
+<summary>🧩 <strong>Programming C#</strong></summary>
+
+-  PlayerController script
+-  Coding Standards
+
 </details>
 
+</details>
+
+
+<details>  
+<summary>🧩 <strong>Next Modification</strong></summary>
+
+1. Fix Main Menu Text
+2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
+</details>
