@@ -37,7 +37,7 @@
 </details>
 
 <details>  
-<summary>🧩 <strong>Concept</strong></summary>
+<summary>🧩 <strong>Module 1: Concept</strong></summary>
 -  Using ProBuilder to help in blocking out levels (aka, grayboxing or level design prototyping)
 -  Using ProBuilder: Understanding a bit about 3D modeling concepts such as vertices, edges, faces, extruding, and edge loops
 -  Practicing a typical level design pipeline from grayboxing to an art pass
@@ -46,7 +46,6 @@
 -  Using NavMesh to create Enemy movement
   
 </details>
-
 
 <details>  
 <summary>🧩 <strong>FPS</strong></summary>
