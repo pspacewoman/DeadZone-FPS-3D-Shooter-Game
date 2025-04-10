@@ -1,20 +1,17 @@
 # 🎮 DeadZone - FPS 
 
-Game Design and Development: 3D Shooter Game
+### Game Design and Development: 3D Shooter Game
+
 ---
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 
-📌 **Live Game (Version 1.0)**: 
-
-[Behance Link](https://www.behance.net/gallery/223414589/DeadZone-FPS-(3D-Shooter-Game))
-
-https://priyanshi-singh.itch.io/deadzone-fps
-
+📌 **Live Game (Version 1.0)**:  
+[Behance Link](https://www.behance.net/gallery/223414589/DeadZone-FPS-(3D-Shooter-Game))  
+[Itch.io Link](https://priyanshi-singh.itch.io/deadzone-fps)
 
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
-![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
-
+![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)  
 ![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
