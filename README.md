@@ -113,12 +113,38 @@ Steps-
 
 <details>  
 <summary>🧩 <strong>Level Design Art Pass</strong></summary>
-Step-
+
+**Steps-**
+
 1.  Art Pass: Floor
     -  adding production art
     -  1st - starting with replacing the floor
     -  add floor environment from prefabs
-2.  Srt Pass: Outer Walls
-    -  
+2.  Art Pass: Outer Walls
+    -  created 4 outer walls using prefabs > environment > walls
+3. Art Pass: Middle Walls
+    -  focused on door and middle wall b/w two rooms
+    -  added a window
+4. Art Pass: First Room
+    -  replaced platform box with prefab platfroms
+    -  added key to door
+5. Art Pass: Second Room
+    -  added moving platfrom
+    -  added goal location
+    -  added pillar1&2
+
+</details>
+
+<details>  
+<summary>🧩 <strong>The Player Setup</strong></summary>
+
+6. Full Player Setup
+    -  TestPlayer replaced by > prefab > player > FPS Player
+    -  Test the game
+7.  Player Prefab Walkthrough
+    -  Understanding FPS Player > Settings on Inspector Mode
+    -  FPS player > camera > Inspector setting
+    -  FPS player > camera > Shooter > Inspector setting
+
 
 </details>
