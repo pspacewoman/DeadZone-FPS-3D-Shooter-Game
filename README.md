@@ -1,4 +1,4 @@
-# 🎮 DeathZone - FPS 
+# 🎮 DeadZone - FPS 
 
 Game Design and Development: 3D Shooter Game
 ---
