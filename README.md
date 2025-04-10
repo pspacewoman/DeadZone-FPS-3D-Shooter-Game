@@ -7,9 +7,9 @@ Game Design and Development: 3D Shooter Game
 
 📌 **Live Game (Version 1.0)**: 
 
-[Behance Link](https://www.behance.net/gallery/223414589/DeathZone-FPS-%283D-Shooter-Game%29)
+[Behance Link](https://www.behance.net/gallery/223414589/DeadZone-FPS-(3D-Shooter-Game))
 
-https://priyanshi-singh.itch.io/deathzone-fps
+https://priyanshi-singh.itch.io/deadzone-fps
 
 
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
