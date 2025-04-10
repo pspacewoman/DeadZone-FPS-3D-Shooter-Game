@@ -161,8 +161,41 @@ Steps-
    ![Screenshot 2025-04-10 at 02 21 35](https://github.com/user-attachments/assets/76820208-327d-49e7-a753-f80358336faf)
 
 2. Creating Particle Systems
-   -  
-
-
+   -  A particle system allows you to simulate non-solid, fluid-like entities such as smoke, fire, explosion, splashes, and dust clouds.
+   -  Particle systems work by emitting mini-particles made up of either 2D sprites or 3D meshes, in the scene, over time.
+   -  Particle systems are a great way to add further visual polish and feedback for the player.
+   -  In this Game Scene -  I created a visual effect when I shoot the pistol, using a particle system.
+   -  goto 'prefab' -> PistolFireEffect -> double click to enter prefab edit mode -> edit puffofmoke or pistolfireeffect based on the requirement
+   -  added new partcile 'puffofsmoke'
+   -  added and set the emission rate and figure of the smoke
+   -  adjusted the 4 explosion strokes and rate
+   -  changing the size of the particle 'size over lifetime' - turn on
+   -  size is setup as large to small (particle system curves)
+   -  setting up color of the smoke dark grey to light grey (transparency to 50)
 
 </details>
+
+
+<details>  
+<summary>🧩 <strong>Shooter Game Animation and Visual Effects</strong></summary>
+1. Level Management
+-  Setting up some global-level management elements such as the lighting, music, user interface, cursor control, and the game manager. 
+-  Hierarchy > Level Management > 
+-  Hierarchy > Directional light > turn off
+-  Setting up multiple directional light > prefabs > lighting > indoor lighting
+-  setting up cursor manager
+-  adding UI and Music and Lightning
+-  Testing out the game
+
+2. Enemy AI
+-  Added some enemies into our level to heighten the challenge for our players.
+-  Many of my game enemies will be driven by artificial intelligence to navigate the level toward the player.
+-  I'll be using Unity's AI navigation system to allow our enemy to navigate our scene.
+-  added 3 enemies to my scene and made 1 change in their script
+-  select enemy > inspector > groundenemy script > LineOfSightHitLayer > Environment,Player
+
+3. Pickups
+-  
+
+</details>
+
