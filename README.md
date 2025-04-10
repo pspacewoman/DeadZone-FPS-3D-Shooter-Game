@@ -142,6 +142,7 @@ Steps-
 6. Full Player Setup
     -  TestPlayer replaced by > prefab > player > FPS Player
     -  Test the game
+      
 7.  Player Prefab Walkthrough
     -  Understanding FPS Player > Settings on Inspector Mode
     -  FPS player > camera > Inspector setting
@@ -155,13 +156,15 @@ Steps-
 <summary>🧩 <strong>Animation & Visual Effects</strong></summary>
 
 1. Setup Imported Animation-
+   
    - fbx file in our assets
    - setting up animation which comes from fbx file
    - Setting up pistol animations : idle and shoot mode
 
    ![Screenshot 2025-04-10 at 02 21 35](https://github.com/user-attachments/assets/76820208-327d-49e7-a753-f80358336faf)
 
-2. Creating Particle Systems
+3. Creating Particle Systems
+   
    -  A particle system allows you to simulate non-solid, fluid-like entities such as smoke, fire, explosion, splashes, and dust clouds.
    -  Particle systems work by emitting mini-particles made up of either 2D sprites or 3D meshes, in the scene, over time.
    -  Particle systems are a great way to add further visual polish and feedback for the player.
@@ -179,7 +182,10 @@ Steps-
 
 <details>  
 <summary>🧩 <strong>Shooter Game Animation and Visual Effects</strong></summary>
+
+  
 1. Level Management
+
 -  Setting up some global-level management elements such as the lighting, music, user interface, cursor control, and the game manager. 
 -  Hierarchy > Level Management > 
 -  Hierarchy > Directional light > turn off
@@ -189,13 +195,25 @@ Steps-
 -  Testing out the game
 
 2. Enemy AI
+
 -  Added some enemies into our level to heighten the challenge for our players.
 -  Many of my game enemies will be driven by artificial intelligence to navigate the level toward the player.
 -  I'll be using Unity's AI navigation system to allow our enemy to navigate our scene.
--  added 3 enemies to my scene and made 1 change in their script
+-  I added 3 enemies to my scene and made 1 change in their script
 -  select enemy > inspector > groundenemy script > LineOfSightHitLayer > Environment,Player
 
 3. Pickups
+   
+-   Providing Players with some pickups to aid them on their journey across the level.
+-   added 2 health pickups in both rooms and increased health life to 2
+
+4.  More Prefabs
+
+-  added props
+-  added checkpoint
+
+5.  Audio Mixer
+
 -  
 
 </details>
