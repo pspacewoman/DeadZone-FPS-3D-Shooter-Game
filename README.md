@@ -334,7 +334,7 @@ unity > project > right-click > open C# Project
 
 
  <details>  
-<summary>🧩 <strong>Assignment</strong></summary>
+<summary>🧩 <strong>Version 2.0 (In-Progress 80%)</strong></summary>
 
 
 1. 3 significant modifications
