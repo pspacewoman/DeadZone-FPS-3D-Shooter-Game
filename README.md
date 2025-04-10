@@ -307,11 +307,12 @@ unity > project > right-click > open C# Project
 <details>  
 <summary>🧩 <strong>3D Shooter Game</strong></summary>
 
-Final Project
+
+**Final Project**
 
 
  <details>  
-<summary>🧩 <strong>Assignmen</strong></summary>
+<summary>🧩 <strong>Assignment</strong></summary>
 
 
 1. 3 significant modifications
