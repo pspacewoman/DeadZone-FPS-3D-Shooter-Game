@@ -1,5 +1,30 @@
-# Game Design and Development: 3D Shooter
+# 🎮 DeathZone - FPS 
+
+Game Design and Development: 3D Shooter Game
 ---
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+
+📌 **Live Game (Version 1.0)**: 
+
+[Behance Link](https://www.behance.net/gallery/223414589/DeathZone-FPS-%283D-Shooter-Game%29)
+
+https://priyanshi-singh.itch.io/deathzone-fps
+
+
+![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
+![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
+
+---
+
+🚀 From Game Player to Game Developer. The only thing more fun than playing games is making them. 
+
+---
+Built From Scratch👩🏻‍💻 
+Added my own notes below for understanding the development process 📝
+
 
 ![image](https://github.com/user-attachments/assets/c19036a2-93b5-473b-8178-721c87d76677)
 
