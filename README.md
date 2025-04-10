@@ -237,10 +237,47 @@ Steps-
 <details>  
 <summary>🧩 <strong>Programming C#</strong></summary>
 
--  PlayerController script
--  Coding Standards
+**1. Coding Standards:**
+  
+unity > project > right-click > open C# Project
+
+-  PlayerController.cs Script
+  
+-  A coding standard is an agreed-upon structure of how to write code. Helps to review the code individually or working in teams.
+-  You can have different coding standards across different projects, teams, and companies.
+-  But the point of having one is to make the code more readable and easy to understand by having the same rules followed by everyone on the team for every script in the project.
+-  In this project, all the provided scripts were written using the same coding standard. Like class headers ->
+  
+-  Rule 1: One of the rules we followed in this coding standard was to have class headers like this one at the top of each script. This is a summary block comment that provides additional description about what a class does so that anyone new to the script would have an easier time understanding what the script does beyond just the class name.
+
+  
+-  Rule 2: Another rule that we had was to put tooltips above every public variable in this class. This makes the code more readable and it helps you understandable. I like to say it makes your code more designer-friendly.
+
+  
+-  Rule 3: I followed to have distinct casing used between our classes and functions versus our variable names. Our classes and functions have every first letter in a word capitalized, which is called upper camel casing. Whereas the variables use lower camel casing, where the first word is lowercase and then the first letter of every word past that is uppercase.
+
+  
+-  Rule 4: I followed - was to have headers for any distinctive grouping of variables like this, so that the variables would be labeled in the inspector. Once again, this makes the script more designer-friendly. It also means we group related variables together in our code, which is another rule in our coding standard.
+
+  
+-  Rule 5: There are two lines of thought with organizing class variables within my script. I like to put variables near where they are used in the code. This is called the principle of proximity.
+
+  
+-  Rule 6: Another rule I followed to make the code easier to understand is to have a function header above every function that describes what the function is meant to do, what inputs it takes, and what it returns, if anything.
+
+
+**Learning to reverse engineer someone else's code is an important skill in learning to program. The coding standard should help you in this process.**
 
 </details>
+
+**2. Ad Hoc vs. Generalized Code**
+
+-  The health script handles the health state of the game object it is attached to, including health points and lives.
+-  Having a general health script written in a robust manner to cover all the use cases made sense.
+-  We write it once and use it many times.
+-  It allows us to leverage our previous work to create games smarter and faster.
+
+  
 
 </details>
 
