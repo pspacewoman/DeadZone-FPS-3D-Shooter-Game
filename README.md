@@ -309,9 +309,15 @@ unity > project > right-click > open C# Project
 <summary>🧩 <strong>Phase 2: Game Assets</strong></summary>
 
 1.  Game Graphics
-2.  Game Audio
-3.  Asset Pipeline
-4.  Programming Best Practices 
+-  Display Model
+
+
+
+    
+
+3.  Game Audio
+4.  Asset Pipeline
+5.  Programming Best Practices 
 
 </details>
 
