@@ -148,3 +148,21 @@ Steps-
 
 
 </details>
+
+
+<details>  
+<summary>🧩 <strong>Animation & Visual Effects</strong></summary>
+
+1. Setup Imported Animation-
+   - fbx file in our assets
+   - setting up animation which comes from fbx file
+   - Setting up pistol animations : idle and shoot mode
+
+   ![Screenshot 2025-04-10 at 02 21 35](https://github.com/user-attachments/assets/76820208-327d-49e7-a753-f80358336faf)
+
+2. Creating Particle Systems
+   -  
+
+
+
+</details>
