@@ -45,7 +45,7 @@
 -  Creating particle effects
 -  Using NavMesh to create Enemy movement
   
-</details>
+
 
 <details>  
 <summary>🧩 <strong>FPS</strong></summary>
@@ -196,5 +196,6 @@ Steps-
 3. Pickups
 -  
 
+</details>
 </details>
 
