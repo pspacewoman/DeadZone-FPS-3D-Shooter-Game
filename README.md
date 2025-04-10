@@ -317,18 +317,9 @@ unity > project > right-click > open C# Project
 
 
 <details>  
-<summary>🧩 <strong>Next Modification</strong></summary>
-
-1. Fix Main Menu Text
-2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
-3. Assignment
-
-</details>
-
-
-<details>  
 <summary>🧩 <strong>Version 2.0 (In-Progress 80%)</strong></summary>
 
+___
 
 1. 3 significant modifications
 2. new name of the game
