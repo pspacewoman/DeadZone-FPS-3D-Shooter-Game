@@ -327,7 +327,7 @@ Assignment-
 
 
 <details>  
-<summary>🧩 <strong>**Module 2: Game Assets**</strong></summary>
+<summary>🧩 <strong>Module 2: Game Assets</strong></summary>
 
 1.  Game Graphics
 2.  Game Audio
@@ -342,5 +342,6 @@ Assignment-
 
 1. Fix Main Menu Text
 2. Audio mixer > giving the player a UI to adjust the volume of an audio group, such as music versus sound effects. via something like the setting pop up.
-</details>
 3. Assignment
+
+</details>
